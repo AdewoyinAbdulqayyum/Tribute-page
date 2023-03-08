@@ -1,0 +1,37 @@
+img{
+    display:block;
+  }
+  #image{
+    max-width:100%;
+  }
+  h1{
+    text-align:center;
+  }
+  p{
+    text-align:center;
+    font-size:1.2rem;
+  }
+  figcaption{
+    display:block;
+    text-align:center;
+  }
+  h2{
+    text-align:center;
+    font-size:1.4rem;
+  }
+  h4{
+    text-align:left;
+    font-style:italic;
+    font-size:0.9rem;
+    
+  }
+  
+  li{
+    text-align:center;
+    margin:16px 0;
+    display:list-item;
+  }
+  body{
+    align-items:center;
+    
+  }
